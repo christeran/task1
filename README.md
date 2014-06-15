@@ -16,11 +16,11 @@ Score
 -----
 The blackjack score is the face value of the two cards added together, with cards 2-10 being the numeric face value, and A is worth 11, and K, Q, J are each worth 10.
 
-#### if the score is less than 21, the app displays the total score for  output
+* if the score is less than 21, the app displays the total score for  output
 
-#### if the score is 21, the app display "blackjack" for output
+* if the score is 21, the app display "blackjack" for output
 
-#### if the score is 22, the app display "bust" for output
+* if the score is 22, the app display "bust" for output
 
 
 
